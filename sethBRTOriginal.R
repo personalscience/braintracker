@@ -79,7 +79,7 @@ me <-
         function () {
           if (Sys.info()["sysname"]=="Windows"){
             windows()
-          } else quartz()
+          } else x11()
           
           menu.choices <- c("Begin warmup session",
                             "Begin testing session",
