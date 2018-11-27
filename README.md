@@ -31,8 +31,16 @@ Roberts, S. (2004). Self-experimentation as a source of new ideas: Ten examples 
 
 And here's a presentation showing more about experiments conducted with this app:
 
+<<<<<<< HEAD
 [![QS15 Fish Oil](https://i.imgur.com/VgKfJWD.png)](https://player.vimeo.com/video/147673343?title=0&byline=0&portrait=0)
 
+=======
+<iframe src="https://player.vimeo.com/video/147673343?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+</iframe>
+<p>
+<a href="https://vimeo.com/147673343">Richard Sprague: "Fish Oil Makes Me Smarter"</a> from <a href="https://vimeo.com/qslabs">Quantified Self</a> on <a href="https://vimeo.com">Vimeo</a>.
+</p>
+>>>>>>> 3542b34ef3cab3698b04595eb97f4576765064b6
 Questions
 ---------
 
