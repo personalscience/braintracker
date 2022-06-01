@@ -34,6 +34,16 @@ And here's a presentation showing more about experiments conducted with this app
 
 [![QS15 Fish Oil](https://i.imgur.com/VgKfJWD.png)](https://player.vimeo.com/video/147673343?title=0&byline=0&portrait=0)
 
+## Technical
+
+Data is kept in the variable `newmath5`. For example, here's how to show unique trials:
+
+```{r, message=FALSE}
+library(tidyverse, quietly=TRUE)
+load("originalValues.RData")
+newmath5 %>% select(condition, when) %>% group_by(condition) %>% filter(n() == 1)
+```
+
 
 ## Questions
 
